@@ -9,12 +9,13 @@ I build the staging layer, the tests and the job triggers that make a warehouse 
 
 ### Evidence
 
-| | |
-|:--|:--|
-| **34**<br>dbt models,<br>two markets | The staging layer of an analytics warehouse for a retail business operating in two countries, then the dimensional models on top of it. I brought the second market into the core models and reconciled category ids across two countries that named things differently.<br><sub>83 commits, Aug 2025 to Dec 2025 · 24 staging, 3 dimension, 1 fact · dbt, Redshift, Step Functions, Python, SQLFluff</sub> |
-| **573**<br>commits on a<br>genotype data system | A livestock genomics system. Illumina IDAT files land, get linked to metadata, are checked for authorisation, loaded as genotypes, then checked for discordance against other samples from the same animal. I built the sample QA framework and added the discordance trigger.<br><sub>20 repositories, Apr 2023 to Nov 2024 · 31% of the task dispatcher, 29% of the discordance analyser · Python, AWS Lambda, SQS, Snowflake, Terraform</sub> |
+**34 dbt models across two markets.** The staging layer of an analytics warehouse for a retail business operating in two countries, then the dimensional models on top of it. I brought the second market into the core models and reconciled category ids across two countries that named things differently.<br>
+<sub>83 commits, Aug 2025 to Dec 2025 &nbsp;·&nbsp; 24 staging, 3 dimension, 1 fact &nbsp;·&nbsp; dbt, Redshift, Step Functions, Python, SQLFluff</sub>
 
-Both are private client codebases. Every number comes from their commit history.
+**573 commits on a genotype data system.** A livestock genomics system. Illumina IDAT files land, get linked to metadata, are checked for authorisation, loaded as genotypes, then checked for discordance against other samples from the same animal. I built the sample QA framework and added the discordance trigger.<br>
+<sub>20 repositories, Apr 2023 to Nov 2024 &nbsp;·&nbsp; 31% of the task dispatcher, 29% of the discordance analyser &nbsp;·&nbsp; Python, AWS Lambda, SQS, Snowflake, Terraform</sub>
+
+<sub>Both are private client codebases. Every number comes from their commit history.</sub>
 
 ### Four failures I have found and fixed
 
