@@ -47,4 +47,7 @@ No production machine learning. No streaming: I have not run Kafka, Kinesis or F
 
 ### Before software
 
-Seventeen years in professional kitchens, apprentice to head chef, then a Computer Science degree with a Data Science major, earned while still working full time on the line. A kitchen teaches you that preparation is most of the job, that the handover to the next shift is not optional, and that nothing broken leaves the pass.
+**I spent seventeen years in professional kitchens.** Apprentice to head chef. Ski field hotels in New Zealand, fine dining on the Gold Coast, Soho House in Mayfair, and seven years at a private members club in Melbourne. I retrained while still working on the line, earning a Diploma and then a Computer Science degree with a Data Science major.
+
+It is on this page because it is the part of my background that actually shows up in the work. A kitchen teaches you that preparation is most of the job, that a service runs to a clock somebody else set, that the handover to the next shift is not optional, and that nothing broken leaves the pass. Those habits transfer to a production pipeline more directly than most of my degree did.<br>
+<sub>Soho House, Little House Mayfair, Aug 2012 to Jun 2013 &nbsp;·&nbsp; The Melbourne Club, Aug 2015 to Dec 2022 &nbsp;·&nbsp; BCompSci, Data Science major, Swinburne, 2022</sub>
