@@ -14,11 +14,12 @@ software company in Portugal.
 
 | | What it does | Built with |
 | --- | --- | --- |
+| **[kea](https://github.com/jpsanders/kea)** | A second brain that checks its facts, for you and your AI agents: sourced facts, predictions scored against what happened, a council of rival AI models for big plans, local search over your Claude Code, Codex and ChatGPT history. MCP server. | Python 3.15, no dependencies |
 | **[huntaway](https://github.com/jpsanders/huntaway)** | The sheepdog for your AI agents: saves and closes idle Claude Code, Codex and OpenCode sessions, stops runaway processes before the machine freezes, hunts rootkits. MCP server. | Python 3.15 |
 | **[bcp](https://github.com/jpsanders/bcp)** | Every Chromium profile its own AI agent: one Browser Control relay and MCP server per profile. | Node, no dependencies |
+| **[usbuntu](https://github.com/jpsanders/usbuntu)** | A full, persistent Ubuntu on a USB stick, straight from the terminal. Refuses to touch the disk you booted from. | Python |
 | **[pascal-llm-stack](https://github.com/jpsanders/pascal-llm-stack)** | Local LLMs on a 2016 GPU under the newest Ubuntu: a kernel 7.0 driver patch, CUDA 12.8, llama.cpp, 22 tokens a second. | Shell, CUDA |
 | **[lg-thermal-watch](https://github.com/jpsanders/lg-thermal-watch)** | A night watch for an LG heat pump on the official ThinQ Connect API, with an MCP server so an agent can read the room. | Python, FastAPI |
-| **[usbuntu](https://github.com/jpsanders/usbuntu)** | A full, persistent Ubuntu on a USB stick, straight from the terminal. Refuses to touch the disk you booted from. | Python |
 | **[banner-builder](https://github.com/jpsanders/banner-builder)** | Profile banners as SVG and PNG from a config that stays on your machine, checked for WCAG contrast. MCP server. | Python |
 | **[python-package-template](https://github.com/jpsanders/python-package-template)** | Start every Python package green: Python 3.15, strict types, nine checks in CI, a man page and an agent skill. | Python |
 | **[dbt-quiet-failures](https://github.com/jpsanders/dbt-quiet-failures)** | Four dbt checks for the failures that pass every other test. | dbt, SQL |
