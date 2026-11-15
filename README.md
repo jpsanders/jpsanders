@@ -19,6 +19,7 @@ software company in Portugal.
 | **[bcp](https://github.com/jpsanders/bcp)** | Every Chromium profile its own AI agent: one Browser Control relay and MCP server per profile. | Node, no dependencies |
 | **[usbuntu](https://github.com/jpsanders/usbuntu)** | A full, persistent Ubuntu on a USB stick, straight from the terminal. Refuses to touch the disk you booted from. | Python |
 | **[pascal-llm-stack](https://github.com/jpsanders/pascal-llm-stack)** | Local LLMs on a 2016 GPU under the newest Ubuntu: a kernel 7.0 driver patch, CUDA 12.8, llama.cpp, 22 tokens a second. | Shell, CUDA |
+| **[mothersauce](https://github.com/jpsanders/mothersauce)** | The base recipes of production Python 3.15: 26 typed, tested patterns, from dataclasses and pydantic to generics, generators and context managers, for you and your AI agent. MCP server. | Python 3.15, pydantic |
 | **[lg-thermal-watch](https://github.com/jpsanders/lg-thermal-watch)** | A night watch for an LG heat pump on the official ThinQ Connect API, with an MCP server so an agent can read the room. | Python, FastAPI |
 | **[banner-builder](https://github.com/jpsanders/banner-builder)** | Profile banners as SVG and PNG from a config that stays on your machine, checked for WCAG contrast. MCP server. | Python |
 | **[python-package-template](https://github.com/jpsanders/python-package-template)** | Start every Python package green: Python 3.15, strict types, nine checks in CI, a man page and an agent skill. | Python |
